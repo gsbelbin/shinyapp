@@ -7,7 +7,6 @@
 
 library(shiny)
 library(stats)
-##  install.packages("ISLR")
 library(ISLR)
 library(boot)
 
